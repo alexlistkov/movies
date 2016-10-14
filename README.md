@@ -1,5 +1,8 @@
 # movies
-Instructions.
+The 'Movie site project' allows you to make pretty web site with list of your favourite movies.
+It consists entertaiment_system.py, media.py, fresh_tomatoes.py, fresh_tomatoes.html and other.
+
+Instructions:
 
 If you want to contain your favourite movies into one pretty web page follow the instructions below:
 
@@ -22,5 +25,10 @@ toy_story = media.Movie('Toy Story',      <- Movie title
 6) Save the entertaiment_system.py and open it from your console. Web page will open automatically.
 
 Note: also you can change the movies existing in original file (like 'Toy Story', 'Avatar', etc.) and add your own!
+
+Authors:
+Alex Listkov, casparados@gmail.com
+
+All thanks to https://www.udacity.com/ and https://github.com/adarsh0806/ud036_StarterCode/blob/master/fresh_tomato (i took the fresh_tomatoes.py from here.
     
                         
