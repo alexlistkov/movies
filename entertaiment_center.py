@@ -2,7 +2,7 @@ import fresh_tomatoes
 import media
 
 
-""" You can add your movies here! Read README.md for instructions! """
+# You can add your movies here! Read README.md for instructions!
 toy_story = media.Movie('Toy Story',
                         'A story of a boy and his toys that come to life',
                         'http://cdn.collider.com/wp-content/uploads'
