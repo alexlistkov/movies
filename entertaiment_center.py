@@ -40,6 +40,6 @@ alexander = media.Movie('Alexander', 'A story about the young leader of '
 
 movies = [toy_story, avatar, the_green_mile, terminator_2, x_men, alexander]
 
-# Add the titles of your movies here ↑↑↑
+# Add the titles of your movies here ^
 
 fresh_tomatoes.open_movies_page(movies)
